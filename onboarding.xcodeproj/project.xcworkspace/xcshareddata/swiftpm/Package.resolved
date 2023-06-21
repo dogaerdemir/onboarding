@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "chipagecontrol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChiliLabs/CHIPageControl.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f7ca786595fb0c08939e4e3cd8152ebc56645612"
+      }
+    }
+  ],
+  "version" : 2
+}
